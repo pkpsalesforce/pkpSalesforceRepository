@@ -1,0 +1,12 @@
+My GIT Details :-
+
+Pkpsalesforce / pramod.pandey@capgemini.com / Ritesh@1980
+https://github.com/pkpsalesforce/pkpSalesforceRepository.git
+
+
+echo "# pkpSalesforceRepository" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/pkpsalesforce/pkpSalesforceRepository.git
+git push -u origin master
